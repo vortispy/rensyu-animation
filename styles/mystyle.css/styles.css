@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+}
+.splash {
+  text-align: center;
+  margin: 10% 0 0 0;
+  box-sizing: border-box;
+}
+.splash .message {
+  font-size: 72px;
+  line-height: 72px;
+  text-shadow: rgba(0, 0, 0, 0.5) 0 0 15px;
+  text-transform: uppercase;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.splash .fa-spinner {
+  text-align: center;
+  display: inline-block;
+  font-size: 72px;
+  margin-top: 50px;
+}
+.page-host {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50px;
+  bottom: 0;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+section {
+  margin: 0 20px;
+}
+.navbar-nav li.loader {
+  margin: 12px 24px 0 6px;
+}
+.pictureDetail {
+  max-width: 425px;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInN0eWxlcy5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRSxTQUFBOztBQUdGO0VBQ0ksa0JBQUE7RUFDQSxpQkFBQTtFQUNBLHNCQUFBOztBQUdKLE9BQVE7RUFDSixlQUFBO0VBQ0EsaUJBQUE7RUFDQSx3Q0FBQTtFQUNBLHlCQUFBO0VBQ0EsYUFBYSw4Q0FBYjs7QUFHSixPQUFRO0VBQ0osa0JBQUE7RUFDQSxxQkFBQTtFQUNBLGVBQUE7RUFDQSxnQkFBQTs7QUFHSjtFQUNJLGtCQUFBO0VBQ0EsT0FBQTtFQUNBLFFBQUE7RUFDQSxTQUFBO0VBQ0EsU0FBQTtFQUNBLGtCQUFBO0VBQ0EsZ0JBQUE7O0FBR0o7RUFDSSxjQUFBOztBQUdKLFdBQVksR0FBRTtFQUNWLHVCQUFBOztBQUdKO0VBQ0ksZ0JBQUEiLCJmaWxlIjoic3R5bGVzLmNzcyIsInNvdXJjZVJvb3QiOiIvc3JjLyJ9 */

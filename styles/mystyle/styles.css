@@ -1,0 +1,15 @@
+.animation {
+  -webkit-animation: slidein 3s;
+}
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInN0eWxlcy9hbmltYXRpb24ubGVzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNDLDZCQUFBOztBQUdEO0VBQ0M7SUFDQyxpQkFBQTtJQUNBLFdBQUE7O0VBR0Q7SUFDQyxlQUFBO0lBQ0EsV0FBQSIsImZpbGUiOiJzdHlsZXMvYW5pbWF0aW9uLmNzcyIsInNvdXJjZVJvb3QiOiIvc3JjLyJ9 */

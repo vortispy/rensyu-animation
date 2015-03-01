@@ -1,0 +1,35 @@
+.hide{
+	display: none;
+}
+
+.center{
+	position: fixed;
+	top: 80px;
+	left: 100px;
+}
+
+.animation{
+	animation: slidein 5s;
+}
+
+@keyframes slidein{
+	from {
+		opacity: 0;
+		margin-left: 100%;
+		width: 300%;
+	}
+
+	to {
+		opacity: 1;
+		margin-left: 0%;
+		width: 100%;
+	}
+}
+
+#scroll{
+	position: fixed;
+}
+
+.first{
+	animation: slidein 2s;
+}
